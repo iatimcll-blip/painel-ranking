@@ -1,5 +1,5 @@
 <script>
-const ADMIN_PASSWORD = "123456"; // Troque por uma senha forte
+const ADMIN_PASSWORD = "Rd@270387"; // Troque por uma senha forte
 
 function solicitarSenha() {
     const senha = prompt("Digite a senha de administrador:");
